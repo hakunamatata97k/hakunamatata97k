@@ -118,9 +118,7 @@ Full-Stack Engineer | Cloud & GenAI Solutions
 </p>
 
 ---
-
 <h3 align="left">🎓 Certifications</h3>
-
 <p align="left">
   <a href="https://www.certible.com/badge/f6e61d52-4995-4d9f-9445-de7f8c580eea/" target="_blank">
     <img src="https://img.shields.io/badge/iSAQB-CPSA--F-blue?style=for-the-badge" />
@@ -130,5 +128,8 @@ Full-Stack Engineer | Cloud & GenAI Solutions
   </a>
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/c4466d4913754ca0ba0a14007742ddb1" target="_blank">
     <img src="https://img.shields.io/badge/AWS-CLF--C02-orange?style=for-the-badge&logo=amazonaws" />
+  </a>
+  <a href="https://www.credly.com/badges/9ebb78b0-0b67-41b1-b4b9-de1c41c48f2e/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/OWASP-SKF100-purple?style=for-the-badge&logo=owasp" />
   </a>
 </p>
